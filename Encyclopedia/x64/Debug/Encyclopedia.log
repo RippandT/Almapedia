@@ -1,0 +1,4 @@
+﻿  Encyclopedia.cpp
+C:\Users\cobya\Downloads\drive-download-20200625T081619Z-001\Encyclopedia\Encyclopedia.cpp(793,9): warning C4102: 'OPTIONS': unreferenced label
+C:\Users\cobya\Downloads\drive-download-20200625T081619Z-001\Encyclopedia\Encyclopedia.cpp(112): warning C4715: 'loginCheck': not all control paths return a value
+  Encyclopedia.vcxproj -> C:\Users\cobya\Downloads\drive-download-20200625T081619Z-001\x64\Debug\Encyclopedia.exe

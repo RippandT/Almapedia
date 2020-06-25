@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(453,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Encyclopedia.cpp
+C:\Users\cobya\Downloads\drive-download-20200625T081619Z-001\Encyclopedia\Encyclopedia.cpp(793,9): warning C4102: 'OPTIONS': unreferenced label
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\cobya\Downloads\drive-download-20200625T081619Z-001\Encyclopedia\Encyclopedia.cpp(112): warning C4715: 'loginCheck': not all control paths return a value
+  All 663 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Encyclopedia.vcxproj -> C:\Users\cobya\Downloads\drive-download-20200625T081619Z-001\Encyclopedia\.\Release\Encyclopedia.exe

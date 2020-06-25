@@ -1,0 +1,5 @@
+You can add your own bits of information on the program itself
+Username: admin
+Password: admin
+
+or you can do it directly from the "entries" folder of thr program.

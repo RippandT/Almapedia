@@ -1,0 +1,4 @@
+﻿  Encyclopedia.cpp
+C:\Users\cobya\Documents\0) Programs\Encyclopedia\Encyclopedia\Encyclopedia.cpp(791,9): warning C4102: 'OPTIONS': unreferenced label
+C:\Users\cobya\Documents\0) Programs\Encyclopedia\Encyclopedia\Encyclopedia.cpp(110): warning C4715: 'loginCheck': not all control paths return a value
+  Encyclopedia.vcxproj -> C:\Users\cobya\Documents\0) Programs\Encyclopedia\Debug\Encyclopedia.exe
